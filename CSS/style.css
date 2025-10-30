@@ -1,0 +1,19 @@
+p{
+    background-color: rgb(255, 0, 255,0.1);
+    color: green;
+    font-family: cursive;
+    font-size: xx-large;
+    font-style: calc();
+    font-weight: 2;
+    line-height: 1;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+
+    text-align: center;
+    text-transform: capitalize;
+    /* text-decoration-line: underline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy; */
+    text-shadow: 3px 3px 10px violet;
+    text-decoration: underline;
+}

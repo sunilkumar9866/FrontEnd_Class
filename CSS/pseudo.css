@@ -1,0 +1,42 @@
+ /* button:hover{
+    color: green;
+    background-color: pink;
+ }
+
+ input:focus{
+    color: orangered;
+ }
+
+ li::after{
+    content: "<";
+ }
+
+ button{
+    color: blueviolet;
+    background-color: blue;
+    transition: all ease 1s;
+ } */
+
+ .sunil{
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    background-color: green;
+    /* transform: skew(10deg,30deg); */
+    animation: wow 10s cubic-bezier(0.19, 1, 0.22, 1) 1s both;
+ }
+
+ @keyframes wow {
+    from{
+        background-color: red;
+    }
+    to{
+        background-color: blue;
+    }
+ }
+
+
+
+ /* .sunil:hover{
+transform: scale(0.8);
+ } */

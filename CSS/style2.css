@@ -1,0 +1,37 @@
+.sunil{
+    height: 100px;
+    width: 200px;
+    background-color: brown;
+    padding: 10px;
+    /* margin: 50px; */
+    box-sizing: content-box;
+}
+
+/* p{
+    border-width: 5px;
+    border-color: orangered;
+    border-style: solid;
+    border-radius: 10px;
+} */
+
+/* .bg{
+    height: 1000px;
+    width: 1000px;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20241019/pngtree-nature-high-resolution-desktop-wallpaper-hd-image_16414250.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+/* .bg{
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(to bottom, red, green, blue, white, orangered);
+} */
+
+/* .bg{
+    height: 200px;
+    width: 250px;
+    background: radial-gradient(circle , red,green,blue,white);
+    box-shadow: 100px 100px 1500px black;
+} */
